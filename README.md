@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 <div align="left">
-// <h3 align="left">💾 My Project url</h3>
-// <a href="http://3.38.214.0/"> <strong>📍 ALBUM'S</strong> http://3.38.214.0/</a> 
-// <br>
- //<a href="http://3.38.214.0:8081/"> <strong>📍 SPACE MARKET</strong> http://3.38.214.0:8081/</a> 
-// <br>
+
  <h3 align="left">🛠 Skills</h3><br>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
